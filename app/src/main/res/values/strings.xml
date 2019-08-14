@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoTabs</string>
+    <string name="add">Add</string>
+    <string name="remove_tab">Delete</string>
+</resources>
